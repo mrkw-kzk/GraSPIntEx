@@ -15,7 +15,7 @@ Silk is deliberately too little.
 - Extreme super speed USB-C cable
 - Stylish M3 screws
 - Cool M3 x 7mm or more spacers
-- Unwavering rubber feets
+- Unwavering rubber feet
 - A heart that never gives up
 
 #### How to Make
