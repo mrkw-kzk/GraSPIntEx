@@ -4,7 +4,7 @@
 These files are not verified.
 Silk is deliberately too little.
 
-### Use these
+### Use These
 - SparkFun Qwiic Pro Micro https://www.sparkfun.com/products/15795
 - molex 955016449 https://www.molex.com/molex/products/part-detail/modular_jacks_plug/0955016449
 - Diodes 1N4148W https://www.diodes.com/part/view/1N4148W
