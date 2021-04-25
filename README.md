@@ -10,6 +10,7 @@ Silk is deliberately too little.
 - Diodes 1N4148W https://www.diodes.com/part/view/1N4148W
 - YAGEO RC0603FR-074K7P https://www.yageo.com/en/ProductSearch/PartNumberSearch?part_number=RC0603FR-074K7P
 - Your beloved CherryMX Compatible Keys
+- Keycaps that fit your hand
 - 4P4C RJ-9 Cable you like
 - Extreme super speed USB-C cable
 - Stylish M3 screws
