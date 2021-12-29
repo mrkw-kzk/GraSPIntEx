@@ -20,4 +20,4 @@ Its silk is deliberately too little.
 
 #### How to Make
 Pin-1s and cathodes have silk dots.
-If you can't figure out how to make it by looking at the board, don't make it.
+See the tweets: https://twitter.com/AEtheR3can/status/1475350572333400072?s=20
